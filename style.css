@@ -37,7 +37,7 @@ hr{
 table, th, td{
   border: solid black 2px;
   background-color: #FFF;
-  font-size: 2vw;
+  font-size: 1.5vw;
 }
 table{
   box-shadow: 5px 5px #888888;
